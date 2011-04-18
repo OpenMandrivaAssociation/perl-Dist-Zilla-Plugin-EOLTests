@@ -3,7 +3,7 @@
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 1
+Release:    %mkrel 2
 
 Summary:    Release tests making sure correct line endings are used
 License:    GPL+ or Artistic
